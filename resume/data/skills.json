@@ -1,0 +1,21 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing and Application performance","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Python","bash","javascript","git","linux"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Atlassian","Bitbucket","Github","Docker","Kubernetes","NGINX","AWS"]
+  },
+  {
+    "grouping":"Containers, Cloud, CI/CD",
+      "skills":[
+          {"name":"Github","link":"https://www.github.com/rileyschuit"},
+          {"name":"Docker","link":"https://hub.docker.com/r/rileyschuit/"},
+          {"name":"TravisCI","link":"https://travis-ci.org/github/rileyschuit"}
+      ]
+  }
+]

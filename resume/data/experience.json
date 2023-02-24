@@ -1,0 +1,50 @@
+[
+    {
+        "role":"Intigrations Engineer",
+        "company":"Menlo Security ",
+        "summary":"( To be determined )",
+        "range":"May 2021 - Present"
+    },
+    {
+        "role":"Contractor - Network Automation Engineer",
+        "company":"Tek Systems",
+        "summary":"**Summary:** Small contracts involving automation\n- Paychex - Assisted with designing idempotent playbook for deploying or rolling back iRules and virtual server configuration",
+        "range":"April 2021"
+    },
+    {
+        "role":"Owner / Operator",
+        "company":"Sturgeon Technologies",
+        "summary":"**Summary:** Just a little LLC I have doing little side tasks\n- Manage a small hosting environment\n- Consult local clients\n- Resell Internet Access\n- Research and develop 3d printing technologies",
+        "range":"August 2020 - Present"
+    },
+    {
+        "role":"Senior Site Reliability Engineer - Services",
+        "company":"F5 Networks",
+        "summary":"**Summary:** Assist with internal services and automation\n- Infrastructe as code - mostly using Ansible\n- Dabbling with puppet and terraform",
+        "range":"April 2020 - Present"
+    },
+    {
+        "role":"Senior Site Reliability Engineer - Proxy",
+        "company":"F5 Networks",
+        "summary":"**Summary:** Keeping BigIPs alive\n- Assisted with scaling out a WAF infrstructure that is not designed to scale\n- Infrastructe as code - mostly using Ansible along with Tower and AWX\n- Designed and maintained GSLB deployment playbooks",
+        "range":"February 2016 - April 2020"
+    },
+    {
+        "role":"Software Engineer",
+        "company":"F5 Networks",
+        "summary":"**Summary:** Whipping out lua scripts to filter through xml.  Ultimately finding bugs and bad configuration in BigIPs in iHealth",
+        "range":"2016 - 2017"
+    },
+    {
+        "role":"Network Support Engineer -> Enterprise Account Engineer",
+        "company":"F5 Networks",
+        "summary":"**Summary:** Supported LTM, GTM, APM, EM modules",
+        "range":"2010 - 2014"
+    },
+    {
+        "role":"Radiologist Technical Support - Systems Analyst",
+        "company":"NightHawk Radiology",
+        "summary":"**Summary:** Assisted with dicom delivery\n- Assisted hospital's transmitting DICOM images\n- Deployed remote locations for Radiologists",
+        "range":"2010 - 2014"
+    }
+]

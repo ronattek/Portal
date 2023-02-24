@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teksystems Global Services</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Teksystems Global Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 23 Feb 2023 18:19:08 -0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 23 Feb 2023 21:09:03 -0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>This is the customer portal for the Teksystems Global Services Automation group</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/posts/about/</link>
+      <pubDate>Thu, 23 Feb 2023 18:19:08 -0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description>This site is for automation documentation and solutions.</description>
+    </item>
+    
+    <item>
+      <title>Ansible Architecture</title>
+      <link>http://localhost:1313/posts/ansible-architecture/</link>
+      <pubDate>Thu, 23 Feb 2023 13:46:10 -0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/ansible-architecture/</guid>
+      <description>Introduction Installing Ansible Automation Platform in AWS</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 21 Feb 2023 18:46:05 -0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction I&amp;rsquo;m bold, I&amp;rsquo;m emphasized. This is a lot like wiki.
+Visit the [Hugo] (https://gohugo.io) website!
+This was an example of a hyperlink.</description>
+    </item>
+    
+  </channel>
+</rss>
